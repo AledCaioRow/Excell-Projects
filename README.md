@@ -1,4 +1,3 @@
-```md
 # Excel Projects
 
 This folder contains three Excel workbooks. Each project shows a different use of Excel, including business tracking, data cleaning, and social research analysis.
@@ -20,4 +19,3 @@ The workbook demonstrates how Excel can be used to improve the structure and rea
 This workbook was created for a university group project involving social research analysis.
 
 It was used to organise and summarise survey and interview data, helping the group and lecturers understand what the data showed and how it related to the wider research project.
-```
